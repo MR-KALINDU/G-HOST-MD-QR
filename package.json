@@ -1,11 +1,11 @@
 {
-    "name": "VAJIRA-MD QR",
+    "name": "QUEEN-ALEXA-QR",
     "description": "qr",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "author" : "Vajira Rathnsyake",
+    "author" : "MR-KALINDU",
     "dependencies": {
        "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
         "@adiwajshing/keyed-db": "^0.2.4",
